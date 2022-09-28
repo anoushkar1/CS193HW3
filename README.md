@@ -87,4 +87,4 @@ Complete the worksheet on GitHub. You can just open it in the browser and add yo
 |       Total         |   20   |
  
 ## Reminder
-Please ask questions if you need them.  Reach out on Campuswire, office hours, or PSOs. For grading issues on homeworks, please email one of your PSO TAs. If you email us, we will happily inform you to email your PSO TAs. Good luck :)
+Please ask questions if you need them.  Reach out on Ed Discussion, office hours, or PSOs. For grading issues on homeworks, please email one of your PSO TAs. If you email us, we will happily inform you to email your PSO TAs. Good luck :)

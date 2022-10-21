@@ -1,5 +1,5 @@
 Part 1: Write your message here from GitHub
-
+"Hi, it's Anoushka :D"
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
 
